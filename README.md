@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://devwithshahzaib.github.io)
+[![dev-with-shahzaib.png](https://i.postimg.cc/1z0Ggwzn/dev-with-shahzaib.png)](https://fb.com/devwithshahzaib)
 
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib</h1>
 <h3 align="center">A passionate Front-end developer</h3>
