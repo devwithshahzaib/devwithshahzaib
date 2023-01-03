@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://devwithshahzaib.github.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://devwithshahzaib.github.io)
 
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib</h1>
 <h3 align="center">A passionate Front-end developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmKq2v8l9sp9i4RY9WZ6mppDL9voBxH_sl1cZGmm7TkenwkybRT-nnxRApKBk-2CS0eY&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devwithshahzaib&label=Profile%20views&color=0e75b6&style=flat" alt="devwithshahzaib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devwithshahzaib" alt="devwithshahzaib" /></a> </p>
