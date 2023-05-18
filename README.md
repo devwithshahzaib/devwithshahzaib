@@ -1,4 +1,4 @@
-[![dev-with-shahzaib.png](https://i.postimg.cc/1z0Ggwzn/dev-with-shahzaib.png)](https://fb.com/devwithshahzaib)
+[![dev-with-shahzaib.png](https://i.ibb.co/9rj367M/dev-with-shahzaib-2.png)](https://fb.com/devwithshahzaib)
 
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib</h1>
 <h3 align="center">A passionate Full Stack Developer 🖥</h3>
