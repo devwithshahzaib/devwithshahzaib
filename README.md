@@ -61,6 +61,8 @@
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
+[![Supabase](https://img.shields.io/badge/Supabase-438EE6?style=for-the-badge&logo=supabase&logoColor=white)](https
+
 
 
 ## 🎯 **PROGRAMMING LANGUAGES**
