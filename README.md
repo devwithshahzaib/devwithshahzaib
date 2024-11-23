@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJs, NextJS, GatsbyJs, React Native, Wordpress CMS**
 
-- 📫 How to reach me **imshahzaib101@gmail.com**
+- 📫 How to reach me **devwithshahzaib@gmail.com**
 
 - ⚡ Fun fact **I think I am receptive minded :)**
 
