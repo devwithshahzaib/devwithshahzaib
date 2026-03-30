@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I build high-performance web and mobile products with clean UX, strong architecture, and real business impact.
+  Full-stack engineer building fast, scalable web and mobile products with clean UX and reliable architecture.
 </p>
 
 <p align="center">
@@ -24,12 +24,18 @@
 ## Core Focus
 
 - React, Next.js, React Native engineering
-- Pixel-perfect, conversion-focused UI
-- API-first full-stack product development
-- WordPress CMS and headless solutions
+- Pixel-perfect, user-first interfaces
+- API-first product development
 - Performance optimization and scalability
 
-## Stack
+## Impact Highlights
+
+- Built and shipped production-ready web and mobile experiences end-to-end.
+- Focused on maintainable code, reusable components, and smooth user journeys.
+- Improved app quality with performance tuning, debugging, and architecture cleanup.
+- Comfortable owning features from planning and API integration to release.
+
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0A0A0A)
@@ -62,7 +68,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Highlights
+## Specialized Areas
 
 ![AI Integrations](https://img.shields.io/badge/AI_Integrations-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM Apps](https://img.shields.io/badge/LLM_Apps-5B21B6?style=for-the-badge&logo=semanticweb&logoColor=white)
